@@ -47,7 +47,7 @@ url: http://rezocirk29.fr
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/rezocirk29"
+baseurl: ""
 
 kramdown:
   input: GFM
