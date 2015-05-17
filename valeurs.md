@@ -5,9 +5,9 @@ permalink: /valeurs/
 ---
 
 Missions et actions
-===================
+-------------------
 
-> "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+> <span title=" Il n’y a personne qui n’aime la souffrance pour elle-même, qui ne la recherche et qui ne la veuille pour elle-même…">« Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit... »</span>
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sit amet urna cursus, feugiat augue vel, laoreet dolor. Suspendisse lectus enim, condimentum tincidunt quam vitae, sodales molestie mauris. Suspendisse nec tortor sit amet magna blandit lobortis ut non nulla. 
 - Fusce voluptat convallis ante in sollicitudin. Aliquam ornare lorem ac quam aliquam fermentum.
