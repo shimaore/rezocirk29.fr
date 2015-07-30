@@ -1,6 +1,6 @@
     ---
     layout: post
-    title: Le mot du président!
+    title: Valeurs et Principes
     categories: [front]
     --- 
     
